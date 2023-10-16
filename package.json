@@ -1,17 +1,17 @@
 {
   "version": "4.0.0",
-  "name": "holly-react",
-  "description": "React version of Holly",
-  "author": "Luke McDonald (https://lukemcdonald.com/)",
-  "homepage": "https://lukemcdonald.github.io/holly-react",
+  "name": "company-website",
+  "description": "Code that powers the Bruthurs company website",
+  "author": "BRUTHURS inc",
+  "homepage": "https://bruthurs-inc.github.io/company-website",
   "keywords": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukemcdonald/holly-react.git"
+    "url": "https://github.com/bruthurs-inc/company-website.git"
   },
   "bugs": {
-    "url": "https://github.com/lukemcdonald/holly-react/issues"
+    "url": "https://github.com/bruthurs-inc/company-website/issues"
   },
   "scripts": {
     "build": "NODE_ENV=production run-s build:*",
